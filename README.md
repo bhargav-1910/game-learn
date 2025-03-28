@@ -40,7 +40,7 @@ cd game-learn
 
 2. Install dependencies:
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 3. Configure environment variables:
