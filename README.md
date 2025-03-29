@@ -3,6 +3,12 @@ Generative AI interactive learning platform
 
 Link of the output or application video : https://youtu.be/NPiN-66hyx4
 
+project contribution
+
+frontend - Bhargava S
+Backend and chatbot - Supritha P S
+
+
 # Educational Game Platform
 Game Learn is an AI-powered, interactive learning platform designed to enhance educational experiences by blending gamification with AI-based assistance. The platform offers personalized learning support, real-time progress tracking, and interactive modules, making learning engaging, efficient, and accessible.
 
@@ -38,6 +44,10 @@ AI-Powered Agent: Leveraging Jotform AI and OpenAI APIs for intelligent, context
 
 Real-Time Chat Interface: Facilitates seamless interaction between users and the AI assistant.
 
+project contribution
+
+frontend - Bhargava S
+Backend and chatbot - supritha
 Key Capabilities:
 
 Multi-language Support
@@ -98,4 +108,6 @@ npm run dev
 │   └── main.jsx       # Application entry point
 ├── public/            # Static assets
 └── supabase/          # Supabase configurations
+
+
 
