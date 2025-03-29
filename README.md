@@ -1,9 +1,12 @@
+Generative AI interactive learning platform
+
+
+Link of the output or application video : https://youtu.be/NPiN-66hyx4
+
 # Educational Game Platform
 Game Learn is an AI-powered, interactive learning platform designed to enhance educational experiences by blending gamification with AI-based assistance. The platform offers personalized learning support, real-time progress tracking, and interactive modules, making learning engaging, efficient, and accessible.
 
-The integration of an AI chatbot further elevates the platform by providing instant query resolution, personalized recommendations, and 24/7 learner assistance.
-
-2. Technical Architecture
+The integration of an AI chatbot further elevates the platform by providing instant query resolution, personalized recommendations, and 24/7 learner assistance.Technical Architecture
 The Game Learn platform is built using modern web technologies to ensure a scalable, responsive, and high-performance user experience.
 
 Frontend Stack:
@@ -95,4 +98,4 @@ npm run dev
 │   └── main.jsx       # Application entry point
 ├── public/            # Static assets
 └── supabase/          # Supabase configurations
-```
+
